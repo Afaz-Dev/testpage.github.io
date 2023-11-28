@@ -1,0 +1,25 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#242424; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_10fa1e7e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+#container_10fa1e7e_padding { margin: 20px; display: block;  }
+.textstyle2 { text-align:left; }
+#container_6a66f0ab { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:448px; background-color:#000000;  }
+#container_73277115 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:94px; background:none;  }
+#container_73277115_padding { margin: 10px; display: block;  }
+#container_19edd504 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:91px; background:none;  }
+#container_19edd504_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:18pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.392157);  }
+.textstyle4 { font-size:18pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#000000; font-weight:bold; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.392157);  }
+.textstyle5 { font-size:8pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.392157);  }
+#container_3ae69361 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:91px; background:none;  }
+.textstyle6 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#img_3148d828 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+@media only screen and (max-width: 360px)
+{
+		#container_19edd504 { width:100%;  }
+}
